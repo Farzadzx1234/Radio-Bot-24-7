@@ -1,4 +1,4 @@
-npm i experss  
+npm i express  
 _____________
 npm i discord.js 
 ________________
